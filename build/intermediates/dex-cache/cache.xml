@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\NanoDegree\xyzreader (3)\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60a15a1ff82886ca853c2894252ae9c44eda9d98">
+        <dex dex="E:\NanoDegree\xyzreader (3)\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_30fa01da60d03da4a3b676b136d8a9c60271234a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\NanoDegree\xyzreader (3)\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\NanoDegree\xyzreader (3)\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fc73519f33e0f469716c8ee6270069b2430fa570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\NanoDegree\xyzreader (3)\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="E:\NanoDegree\xyzreader (3)\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_de38f7d0507256794e56d03dac0b776028914962\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
+        "source": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
+    }
+]

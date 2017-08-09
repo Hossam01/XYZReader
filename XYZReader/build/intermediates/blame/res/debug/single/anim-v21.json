@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Hossam\\.android\\build-cache\\f1c34de773ba2b6cb8d7842a9218a3482dc70c80\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
+        "source": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
+    },
+    {
+        "merged": "E:\\NanoDegree\\xyzreader (3)\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Hossam\\.android\\build-cache\\f1c34de773ba2b6cb8d7842a9218a3482dc70c80\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
